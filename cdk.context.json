@@ -1,0 +1,8 @@
+{
+  "availability-zones:account=327720173366:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "ami:account=327720173366:filters.image-type.0=machine:filters.name.0=fck-nat-amzn2-*-arm64-ebs:filters.state.0=available:owners.0=568608671756:region=eu-central-1": "ami-0d65d4e8bca87cd3f"
+}
